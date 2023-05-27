@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Login</string>
+    <string name="name">Guardian en Casa</string>
+    <string name="email">Correo Electronico</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Ingresar</string>
+    <string name="registro">Registrarme</string>
+    <string name="welcome">¡BIENVENIDO!</string>
 </resources>
